@@ -3,6 +3,10 @@
 This is a small FPGA camera project I worked on in Tucson around 2018.  
 It combines a **Terasic D5M 5MP camera sensor** and a **Xilinx ZedBoard** to capture raw images and display them live — with an unexpected moment that made it special.
 
+<p align="center">
+  <img src="https://github.com/zakinder/zedboard-d5m-name-echo/blob/main/images/20181021_223703.jpg" alt="WHAT'S IN A NAME?" width="600"/>
+</p>
+
 ---
 
 ## 🔍 Project Summary

@@ -1,4 +1,5 @@
 # 📷 ZedBoard + D5M Camera | “What’s in a Name?”
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
 This is a small FPGA camera project I worked on in Tucson around 2018.  
 It combines a **Terasic D5M 5MP camera sensor** and a **Xilinx ZedBoard** to capture raw images and display them live — with an unexpected moment that made it special.
